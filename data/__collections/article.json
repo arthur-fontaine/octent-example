@@ -1,6 +1,6 @@
 {
   "name": "article",
-  "fields" [
+  "fields": [
     {
       "name": "title",
       "type": "string"
