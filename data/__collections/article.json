@@ -7,7 +7,7 @@
     },
     {
       "name": "content",
-      "type": "string"
+      "type": "rich-text"
     }
   ]
 }
